@@ -4,6 +4,8 @@ A robust, type-safe Node.js SDK for the JSONPlaceholder API.
 
 [![CI](https://github.com/myuser/json-placeholder-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/myuser/json-placeholder-sdk/actions/workflows/ci.yml)
 
+> 📘 **Documentation**: For a detailed integration guide, configuration options, and troubleshooting, see the [User Guide](docs/USER_GUIDE.md).
+
 ## Features
 
 - **Full TypeScript Support**: Typed interfaces for all resources (Posts, etc.).

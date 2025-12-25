@@ -1,0 +1,11 @@
+node_modules
+dist
+coverage
+.DS_Store
+.env
+*.log
+error_build.log
+error.log
+test_error.log
+build_error.log
+test_it_error.log
